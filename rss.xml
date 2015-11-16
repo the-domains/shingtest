@@ -4,7 +4,7 @@
         <description><![CDATA[shingtest]]></description>
         <link>https://thegrid.ai/shingtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 03:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 17:34:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shingtest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABC]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/shingtest/abc/index.html</link>
             <guid isPermaLink="false">23558dbf-43a8-4ae4-9d6f-b3da93f2c275</guid>
             <pubDate>Mon, 16 Nov 2015 03:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[31 Places to Have the Perfect Beach Vacation]]></title>
+            <description><![CDATA[<article><h1>31 Places to Have the Perfect Beach Vacation</h1><p>Party places: Known for its intimate weddings, the club can welcome up to 120 people, with lots of spots for the ceremony: under a canopy at Grace Bay Club beach, in the enchanting gazebo, on a private catamaran, even on an uninhabited cay.</p><img src="http://photos.cntraveler.com/2014/07/31/53da4a75dcd5888e145abeaa_petit-st-vincent-resort-petit-st-vincent-st-vincent-grenadines-102135-5.jpg"></article>]]></description>
+            <link>http://www.cntraveler.com/galleries/2014-02-19/best-beach-vacations-hawaii-mexico-bahamas</link>
+            <guid isPermaLink="false">fd1d66af-c78d-4786-9e81-ccd55af75ab1</guid>
+            <pubDate>Mon, 16 Nov 2015 17:33:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
