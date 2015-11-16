@@ -1,6 +1,6 @@
 name: shingtest
 favicon: null
-layout_spectrum: 0.8217405998148024
+layout_spectrum: 0.87396
 typography_spectrum: 0.86227
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#618cb7'
   brandStrength: 0.8125
   lightness: 0.9190753372386098
-  saturation: 0.15049477224238217
-  rhythmicContrast: 0.01713978429324925
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
